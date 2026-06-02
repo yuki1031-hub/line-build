@@ -44,10 +44,10 @@ export default function AboutPage() {
           </div>
           <div>
             <h2 style={{ fontFamily: 'var(--font-heading)', fontSize: '1.4rem', fontWeight: 700, marginBottom: '0.3rem' }}>
-              hishikawa（菱川雄紀）
+              hishi
             </h2>
             <p style={{ color: 'var(--text-muted)', fontSize: '0.9rem', marginBottom: '0.8rem' }}>
-              フリーランスエンジニア / 埼玉県在住
+              フリーランスエンジニア / 関東在住
             </p>
             <div style={{ display: 'flex', gap: '0.6rem', flexWrap: 'wrap' }}>
               <a href="https://twitter.com/hshkwx" target="_blank" rel="noopener noreferrer" className="tag">

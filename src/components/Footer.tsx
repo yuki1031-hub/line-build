@@ -86,7 +86,7 @@ export default function Footer() {
           fontSize: '0.8rem',
         }}>
           <p>© 2025 line-build. All rights reserved.</p>
-          <p>運営：hishikawa（フリーランスエンジニア）</p>
+          <p>運営：hishi（フリーランスエンジニア）</p>
         </div>
       </div>
     </footer>
