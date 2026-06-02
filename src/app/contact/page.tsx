@@ -1,8 +1,6 @@
-import type { Metadata } from 'next';
+'use client';
 
-export const metadata: Metadata = {
-  title: 'お問い合わせ・案件のご依頼',
-};
+import Link from 'next/link';
 
 export default function ContactPage() {
   return (
