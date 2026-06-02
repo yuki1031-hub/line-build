@@ -77,8 +77,8 @@ export default function AboutPage() {
             </h2>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
               {[
-                { period: '〜2024年', desc: 'アサヒ飲料にて製造業・品質管理を約7年間担当' },
-                { period: '2024年', desc: 'IT系ベンチャーにてLINEチャットボット実装エンジニアとして従事（約4ヶ月）' },
+                { period: '〜2024年', desc: 'アサヒ飲料にてプロジェクトマネジメントを従事' },
+                { period: '2024年', desc: 'IT系ベンチャーにてLINEチャットボット実装エンジニアとして従事' },
                 { period: '2025年〜', desc: 'フリーランスエンジニアとして独立。Lステップ・エルメ・LINE API実装を専門に複数案件を受注' },
               ].map(({ period, desc }) => (
                 <div key={period} style={{ display: 'flex', gap: '1rem', alignItems: 'flex-start' }}>
