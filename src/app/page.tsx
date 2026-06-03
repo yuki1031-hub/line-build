@@ -74,9 +74,9 @@ const posts = [
 const skills = ['Lステップ', 'エルメ', 'LINE Messaging API', 'Node.js', 'GAS', 'React / Next.js'];
 
 const cases = [
-  { industry: 'ゴルフ用品買取', desc: 'リッチメニュー・タグ・ステップ配信の全構築' },
-  { industry: '住宅メーカー', desc: 'LIFF×外部API連携のキャンペーンシステム' },
-  { industry: '占い事業', desc: '複数ペルソナのシナリオ設計・自動応答構築' },
+  { industry: 'ゴルフ用品買取メーカー', desc: 'リッチメニュー・タグ・ステップ配信の全構築' },
+  { industry: '大手住宅メーカー', desc: 'LIFF×外部API連携のキャンペーンシステム' },
+  { industry: 'スキンケアメーカー', desc: 'リッチメニュー・タグ・ステップ配信の全構築' },
 ];
 
 export default function Home() {
